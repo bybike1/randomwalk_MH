@@ -1,2 +1,2 @@
 # randomwalk_MH
-Implementation on "基礎からのベイズ統計学 4.7"
+Implementation of "基礎からのベイズ統計学 4.7"
